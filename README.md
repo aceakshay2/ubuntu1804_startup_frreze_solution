@@ -1,0 +1,1 @@
+# ubuntu1804_startup_frreze_solution
